@@ -1,0 +1,3 @@
+﻿  pipe_iocp_server.cpp
+f:\vsproject\pipe\pipe\pipe_iocp_server.cpp(323): warning C4477: 'wprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'HANDLE'
+  pipe.vcxproj -> F:\vsproject\pipe\Debug\pipe_iocp_server.exe
